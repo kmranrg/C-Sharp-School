@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/ref/08_WhileLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/ref/08_WhileLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/08_WhileLoop/obj/Debug/net5.0/08_WhileLoop.genruntimeconfig.cache
