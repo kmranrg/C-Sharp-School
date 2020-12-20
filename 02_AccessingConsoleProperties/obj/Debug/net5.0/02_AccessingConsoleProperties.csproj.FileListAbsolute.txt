@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/ref/02_AccessingConsoleProperties.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/ref/02_AccessingConsoleProperties.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/02_AccessingConsoleProperties/obj/Debug/net5.0/02_AccessingConsoleProperties.genruntimeconfig.cache
