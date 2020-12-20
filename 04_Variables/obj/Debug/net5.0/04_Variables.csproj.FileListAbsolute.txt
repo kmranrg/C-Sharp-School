@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/04_Variables
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/04_Variables.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/04_Variables.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/04_Variables.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/04_Variables.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/ref/04_Variables.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/bin/Debug/net5.0/04_Variables.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/ref/04_Variables.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/04_Variables/obj/Debug/net5.0/04_Variables.genruntimeconfig.cache

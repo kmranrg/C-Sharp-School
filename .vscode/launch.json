@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/02_AccessingConsoleProperties/bin/Debug/net5.0/02_AccessingConsoleProperties.dll",
+            "program": "${workspaceFolder}/04_Variables/bin/Debug/net5.0/04_Variables.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/02_AccessingConsoleProperties",
+            "cwd": "${workspaceFolder}/04_Variables",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
