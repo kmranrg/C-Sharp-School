@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/ref/06_SwitchCase.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/ref/06_SwitchCase.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/06_SwitchCase/obj/Debug/net5.0/06_SwitchCase.genruntimeconfig.cache

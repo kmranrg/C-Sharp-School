@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/05_Conditions/bin/Debug/net5.0/05_Conditions.dll",
+            "program": "${workspaceFolder}/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/05_Conditions",
+            "cwd": "${workspaceFolder}/06_SwitchCase",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
