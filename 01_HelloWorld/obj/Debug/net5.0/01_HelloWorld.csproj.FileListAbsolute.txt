@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/01_HelloWorld
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/01_HelloWorld.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/01_HelloWorld.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/01_HelloWorld.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/01_HelloWorld.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/ref/01_HelloWorld.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/bin/Debug/net5.0/01_HelloWorld.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/ref/01_HelloWorld.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/01_HelloWorld/obj/Debug/net5.0/01_HelloWorld.genruntimeconfig.cache
