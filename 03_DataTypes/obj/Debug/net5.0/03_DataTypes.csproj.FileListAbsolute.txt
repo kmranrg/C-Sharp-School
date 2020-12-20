@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/03_DataTypes
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/03_DataTypes.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/03_DataTypes.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/03_DataTypes.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/03_DataTypes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/ref/03_DataTypes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/bin/Debug/net5.0/03_DataTypes.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/ref/03_DataTypes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/03_DataTypes/obj/Debug/net5.0/03_DataTypes.genruntimeconfig.cache
