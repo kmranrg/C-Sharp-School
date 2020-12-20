@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.dll",
+            "program": "${workspaceFolder}/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/08_WhileLoop",
+            "cwd": "${workspaceFolder}/09_Roll_A_Double_Game",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

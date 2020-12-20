@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/ref/09_Roll_A_Double_Game.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/bin/Debug/net5.0/09_Roll_A_Double_Game.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/ref/09_Roll_A_Double_Game.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/09_Roll_A_Double_Game/obj/Debug/net5.0/09_Roll_A_Double_Game.genruntimeconfig.cache
