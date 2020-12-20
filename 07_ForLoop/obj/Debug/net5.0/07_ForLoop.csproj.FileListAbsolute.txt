@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/07_ForLoop
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/07_ForLoop.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/07_ForLoop.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/07_ForLoop.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/07_ForLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/ref/07_ForLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/bin/Debug/net5.0/07_ForLoop.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/ref/07_ForLoop.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/07_ForLoop/obj/Debug/net5.0/07_ForLoop.genruntimeconfig.cache

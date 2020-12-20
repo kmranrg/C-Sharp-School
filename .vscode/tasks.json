@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/06_SwitchCase/06_SwitchCase.csproj",
+                "${workspaceFolder}/07_ForLoop/07_ForLoop.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/06_SwitchCase/06_SwitchCase.csproj",
+                "${workspaceFolder}/07_ForLoop/07_ForLoop.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/06_SwitchCase/06_SwitchCase.csproj",
+                "${workspaceFolder}/07_ForLoop/07_ForLoop.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

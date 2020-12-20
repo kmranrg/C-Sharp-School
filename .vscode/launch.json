@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/06_SwitchCase/bin/Debug/net5.0/06_SwitchCase.dll",
+            "program": "${workspaceFolder}/07_ForLoop/bin/Debug/net5.0/07_ForLoop.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/06_SwitchCase",
+            "cwd": "${workspaceFolder}/07_ForLoop",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
