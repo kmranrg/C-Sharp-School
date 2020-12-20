@@ -27,6 +27,20 @@ namespace _02_AccessingConsoleProperties
       Console.WriteLine("\nCool, mine is destruction");
 
       Console.ForegroundColor = ConsoleColor.White;
+
+      /*
+      OUTPUT:
+
+      Hello, what is your name?
+      Anurag
+
+      My name is RX-9000. 
+      I'm an AI sent from the future to destroy mankind
+      What is your hobby?
+      Playing Cricket
+
+      Cool, mine is destruction
+      */
     }
   }
 }

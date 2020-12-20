@@ -14,6 +14,12 @@ namespace _01_HelloWorld
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
+
+      /*
+      OUTPUT:
+
+      Hello World!
+      */
     }
   }
 }
