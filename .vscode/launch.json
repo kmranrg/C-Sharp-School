@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/04_Variables/bin/Debug/net5.0/04_Variables.dll",
+            "program": "${workspaceFolder}/05_Conditions/bin/Debug/net5.0/05_Conditions.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/04_Variables",
+            "cwd": "${workspaceFolder}/05_Conditions",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/05_Conditions
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/05_Conditions.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/05_Conditions.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/05_Conditions.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/05_Conditions.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/ref/05_Conditions.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/bin/Debug/net5.0/05_Conditions.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/ref/05_Conditions.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/05_Conditions/obj/Debug/net5.0/05_Conditions.genruntimeconfig.cache
