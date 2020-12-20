@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/07_ForLoop/bin/Debug/net5.0/07_ForLoop.dll",
+            "program": "${workspaceFolder}/08_WhileLoop/bin/Debug/net5.0/08_WhileLoop.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/07_ForLoop",
+            "cwd": "${workspaceFolder}/08_WhileLoop",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
