@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.dll",
+            "program": "${workspaceFolder}/13_Math/bin/Debug/net5.0/13_Math.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/12_BreakContinue",
+            "cwd": "${workspaceFolder}/13_Math",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
