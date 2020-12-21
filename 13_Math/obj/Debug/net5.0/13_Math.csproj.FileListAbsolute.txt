@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/13_Math
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/13_Math.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/13_Math.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/13_Math.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/13_Math.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/ref/13_Math.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/bin/Debug/net5.0/13_Math.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/ref/13_Math.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/13_Math/obj/Debug/net5.0/13_Math.genruntimeconfig.cache

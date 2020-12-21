@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/15_Dictionary
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/15_Dictionary.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/15_Dictionary.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/15_Dictionary.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/15_Dictionary.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/ref/15_Dictionary.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/bin/Debug/net5.0/15_Dictionary.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/ref/15_Dictionary.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/15_Dictionary/obj/Debug/net5.0/15_Dictionary.genruntimeconfig.cache

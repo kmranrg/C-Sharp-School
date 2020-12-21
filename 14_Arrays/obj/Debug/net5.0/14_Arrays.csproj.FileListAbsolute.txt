@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/14_Arrays
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/14_Arrays.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/14_Arrays.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/14_Arrays.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/14_Arrays.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/ref/14_Arrays.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/bin/Debug/net5.0/14_Arrays.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/ref/14_Arrays.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/14_Arrays/obj/Debug/net5.0/14_Arrays.genruntimeconfig.cache

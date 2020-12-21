@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/10_Operators
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/10_Operators.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/10_Operators.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/10_Operators.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/10_Operators.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/ref/10_Operators.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/bin/Debug/net5.0/10_Operators.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/ref/10_Operators.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/10_Operators/obj/Debug/net5.0/10_Operators.genruntimeconfig.cache
