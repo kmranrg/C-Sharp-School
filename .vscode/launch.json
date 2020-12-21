@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/10_Operators/bin/Debug/net5.0/10_Operators.dll",
+            "program": "${workspaceFolder}/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/10_Operators",
+            "cwd": "${workspaceFolder}/11_TypeCasting",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

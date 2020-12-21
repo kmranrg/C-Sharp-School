@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/ref/11_TypeCasting.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/ref/11_TypeCasting.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/11_TypeCasting/obj/Debug/net5.0/11_TypeCasting.genruntimeconfig.cache
