@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/13_Math/bin/Debug/net5.0/13_Math.dll",
+            "program": "${workspaceFolder}/14_Arrays/bin/Debug/net5.0/14_Arrays.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/13_Math",
+            "cwd": "${workspaceFolder}/14_Arrays",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
