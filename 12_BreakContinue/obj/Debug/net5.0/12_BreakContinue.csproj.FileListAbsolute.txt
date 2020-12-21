@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/ref/12_BreakContinue.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/ref/12_BreakContinue.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/12_BreakContinue/obj/Debug/net5.0/12_BreakContinue.genruntimeconfig.cache

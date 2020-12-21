@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/11_TypeCasting/bin/Debug/net5.0/11_TypeCasting.dll",
+            "program": "${workspaceFolder}/12_BreakContinue/bin/Debug/net5.0/12_BreakContinue.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/11_TypeCasting",
+            "cwd": "${workspaceFolder}/12_BreakContinue",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
