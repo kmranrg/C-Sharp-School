@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/14_Arrays/bin/Debug/net5.0/14_Arrays.dll",
+            "program": "${workspaceFolder}/16_List/bin/Debug/net5.0/16_List.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/14_Arrays",
+            "cwd": "${workspaceFolder}/16_List",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
