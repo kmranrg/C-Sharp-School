@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/16_List
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/16_List.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/16_List.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/16_List.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/16_List.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/ref/16_List.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/bin/Debug/net5.0/16_List.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/ref/16_List.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/16_List/obj/Debug/net5.0/16_List.genruntimeconfig.cache
