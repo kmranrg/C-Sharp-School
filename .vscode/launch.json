@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/17_Methods/bin/Debug/net5.0/17_Methods.dll",
+            "program": "${workspaceFolder}/18_Classes/bin/Debug/net5.0/18_Classes.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/17_Methods",
+            "cwd": "${workspaceFolder}/18_Classes",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
