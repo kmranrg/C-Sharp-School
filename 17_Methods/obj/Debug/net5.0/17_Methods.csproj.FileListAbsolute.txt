@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/17_Methods
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/17_Methods.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/17_Methods.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/17_Methods.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/17_Methods.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/ref/17_Methods.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/bin/Debug/net5.0/17_Methods.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/ref/17_Methods.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/17_Methods/obj/Debug/net5.0/17_Methods.genruntimeconfig.cache

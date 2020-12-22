@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/18_Classes
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/18_Classes.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/18_Classes.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/18_Classes.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/18_Classes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/ref/18_Classes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/bin/Debug/net5.0/18_Classes.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/ref/18_Classes.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/18_Classes/obj/Debug/net5.0/18_Classes.genruntimeconfig.cache
