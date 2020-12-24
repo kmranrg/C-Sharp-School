@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/19_Inheritance/bin/Debug/net5.0/19_Inheritance.dll",
+            "program": "${workspaceFolder}/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/19_Inheritance",
+            "cwd": "${workspaceFolder}/20_Polymorphism",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

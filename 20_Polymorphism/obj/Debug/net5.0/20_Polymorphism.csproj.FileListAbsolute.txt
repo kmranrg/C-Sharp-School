@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/ref/20_Polymorphism.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/ref/20_Polymorphism.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/20_Polymorphism/obj/Debug/net5.0/20_Polymorphism.genruntimeconfig.cache

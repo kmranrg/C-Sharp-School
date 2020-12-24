@@ -39,6 +39,18 @@ namespace _19_Inheritance
             Console.WriteLine("Car Brand: " + myCar.brand + " | Car Model: " + myCar.modelName);
 
             /*
+            IMPORTANT NOTE: sealed keyword
+
+            1) If you do not want other classes to inherit from a class, use the sealed keyword
+            2) SYNTAX:
+                        sealed class Vehicle 
+                        {
+                            ...
+                        }
+
+            */
+
+            /*
             OUTPUT:
 
             INHERITANCE
