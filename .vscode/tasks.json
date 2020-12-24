@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/20_Polymorphism/20_Polymorphism.csproj",
+                "${workspaceFolder}/21_Abstraction/21_Abstraction.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/20_Polymorphism/20_Polymorphism.csproj",
+                "${workspaceFolder}/21_Abstraction/21_Abstraction.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/20_Polymorphism/20_Polymorphism.csproj",
+                "${workspaceFolder}/21_Abstraction/21_Abstraction.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

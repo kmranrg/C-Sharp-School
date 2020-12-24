@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/20_Polymorphism/bin/Debug/net5.0/20_Polymorphism.dll",
+            "program": "${workspaceFolder}/21_Abstraction/bin/Debug/net5.0/21_Abstraction.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/20_Polymorphism",
+            "cwd": "${workspaceFolder}/21_Abstraction",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
