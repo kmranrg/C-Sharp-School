@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.dll",
+            "program": "${workspaceFolder}/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/23_MethodOverloading",
+            "cwd": "${workspaceFolder}/25_DataFileHandling",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/ref/25_DataFileHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/ref/25_DataFileHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/25_DataFileHandling/obj/Debug/net5.0/25_DataFileHandling.genruntimeconfig.cache
