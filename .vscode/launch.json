@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.dll",
+            "program": "${workspaceFolder}/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/25_DataFileHandling",
+            "cwd": "${workspaceFolder}/26_EquilateralTriangleBorder",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
