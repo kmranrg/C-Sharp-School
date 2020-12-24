@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/22_Interface/22_Interface.csproj",
+                "${workspaceFolder}/23_MethodOverloading/23_MethodOverloading.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/22_Interface/22_Interface.csproj",
+                "${workspaceFolder}/23_MethodOverloading/23_MethodOverloading.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/22_Interface/22_Interface.csproj",
+                "${workspaceFolder}/23_MethodOverloading/23_MethodOverloading.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/22_Interface/bin/Debug/net5.0/22_Interface.dll",
+            "program": "${workspaceFolder}/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/22_Interface",
+            "cwd": "${workspaceFolder}/23_MethodOverloading",
             "console": "externalTerminal",
             "stopAtEntry": false
         },

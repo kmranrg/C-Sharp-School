@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/ref/23_MethodOverloading.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/bin/Debug/net5.0/23_MethodOverloading.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/ref/23_MethodOverloading.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/23_MethodOverloading/obj/Debug/net5.0/23_MethodOverloading.genruntimeconfig.cache
