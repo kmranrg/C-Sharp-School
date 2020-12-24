@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/ref/26_EquilateralTriangleBorder.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/bin/Debug/net5.0/26_EquilateralTriangleBorder.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/ref/26_EquilateralTriangleBorder.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/26_EquilateralTriangleBorder/obj/Debug/net5.0/26_EquilateralTriangleBorder.genruntimeconfig.cache
