@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/22_Interface
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/22_Interface.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/22_Interface.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/22_Interface.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/22_Interface.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/ref/22_Interface.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/bin/Debug/net5.0/22_Interface.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/ref/22_Interface.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/22_Interface/obj/Debug/net5.0/22_Interface.genruntimeconfig.cache

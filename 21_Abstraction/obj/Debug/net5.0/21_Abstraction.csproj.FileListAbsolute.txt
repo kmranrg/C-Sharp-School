@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/21_Abstraction
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/21_Abstraction.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/21_Abstraction.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/21_Abstraction.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/21_Abstraction.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/ref/21_Abstraction.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/bin/Debug/net5.0/21_Abstraction.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/ref/21_Abstraction.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/21_Abstraction/obj/Debug/net5.0/21_Abstraction.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/19_Inheritance
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/19_Inheritance.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/19_Inheritance.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/19_Inheritance.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/19_Inheritance.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/ref/19_Inheritance.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/bin/Debug/net5.0/19_Inheritance.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/ref/19_Inheritance.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/19_Inheritance/obj/Debug/net5.0/19_Inheritance.genruntimeconfig.cache

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/18_Classes/bin/Debug/net5.0/18_Classes.dll",
+            "program": "${workspaceFolder}/25_DataFileHandling/bin/Debug/net5.0/25_DataFileHandling.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/18_Classes",
+            "cwd": "${workspaceFolder}/25_DataFileHandling",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
