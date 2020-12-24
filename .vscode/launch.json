@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/21_Abstraction/bin/Debug/net5.0/21_Abstraction.dll",
+            "program": "${workspaceFolder}/22_Interface/bin/Debug/net5.0/22_Interface.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/21_Abstraction",
+            "cwd": "${workspaceFolder}/22_Interface",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
