@@ -1,0 +1,16 @@
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.csprojAssemblyReference.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.AssemblyInfoInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.AssemblyInfo.cs
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/24_ExceptionHandling
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/24_ExceptionHandling.deps.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/24_ExceptionHandling.runtimeconfig.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/24_ExceptionHandling.runtimeconfig.dev.json
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/24_ExceptionHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/ref/24_ExceptionHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/bin/Debug/net5.0/24_ExceptionHandling.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/ref/24_ExceptionHandling.dll
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.pdb
+/home/kmranrg/Documents/kan_work/C_Sharp-School/24_ExceptionHandling/obj/Debug/net5.0/24_ExceptionHandling.genruntimeconfig.cache
